@@ -1,4 +1,4 @@
-### <h1> Oi, eu sou a Rosi 👋 </h1>
+### <h1> Alou 👋 </h1>
 
 
 - 🔭 Estou iniciando no mundo da programação / I've recently gotten into coding
