@@ -1,8 +1,8 @@
 ### <h1> Alou 👋 </h1>
 
 
-- 🔭 Estou iniciando no mundo da programação / I've recently gotten into coding
-- 🌱 Estou aprendendo Java / I'm learning Java
+- 🔭 Estou aprendendo a programar / I've recently gotten into coding
+- 🌱 A área que tenho maior interesse é o front-end / I'm most interesting in front-end.
 - ❤ Ela/dela/she/her
 - ⚡ Tenho medo de matemática / I'm scared of math
 
