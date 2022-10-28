@@ -4,7 +4,7 @@
 - 🔭 Estou aprendendo a programar / I've recently gotten into coding
 - 🌱 A área que tenho maior interesse é o front-end / I'm most interesting in front-end.
 - ❤ Ela/dela/she/her
-- ⚡ Tenho medo de matemática / I'm scared of math
+- ⚡ Estudante de Análise e desenvolvimento de sistemas.
 
 
 
